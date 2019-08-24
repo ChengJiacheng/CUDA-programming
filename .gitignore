@@ -6,3 +6,6 @@
 *.cache
 *.lib
 *.user
+*.pdb
+*.ilk
+*.exp
